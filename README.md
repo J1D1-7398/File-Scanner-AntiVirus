@@ -15,7 +15,7 @@ pip install vt-py
 ```
 
 ## How to use
-Open Command Prompt and navigate to the directory where you have cloned/downloaded the repository.
+Open Command Prompt and navigate to the directory where you have cloned/downloaded the repository. Remember to enter in the "Code" folder, where the python files are stored.
 
 When you have reached the directory in Command Prompt type
 ```
